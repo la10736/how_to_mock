@@ -1,0 +1,6 @@
+[package]
+name = "how_to_mock"
+version = "0.1.0"
+authors = ["michele <michele.damico@gmail.com>"]
+
+[dependencies]
